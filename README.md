@@ -1,7 +1,8 @@
 
-# 🏦 Back\_Account – Bank Account Management System
-
-A secure and intuitive **Bank Account Management System** that allows users or admins to create, manage, and monitor multiple bank accounts. Built with CRUD functionality and designed for educational, enterprise, or financial management use cases.
+🏦 Bank Account Management System — Screenshot Preview
+<p align="center"> <img src="https://github.com/Din-Rasin/Back_Account-Bank-Account-Management-System/blob/main/Screenshot%202025-06-28%20163133.png?raw=true" width="600" alt="Bank Account Management System Screenshot" /> </p>
+Description:
+This screenshot shows the main user interface of the Bank Account Management System. It highlights account details, transaction options, and an intuitive dashboard designed for efficient management of banking operations.
 
 ---
 
